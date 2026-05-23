@@ -1,0 +1,13 @@
+# Reportes de análisis de algoritmos
+
+Este sitio reúne los reportes desarrollados para la materia de análisis de algoritmos.
+
+Los trabajos integran código en Julia, explicación en Markdown, desarrollo de experimentos, análisis de resultados, gráficas, tablas y conclusiones sobre el comportamiento de distintos algoritmos.
+
+## Contenido
+
+- Unidad 1
+- Unidad 2
+- Unidad 3
+- Unidad 4
+- Unidad 5
