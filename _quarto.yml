@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Reportes de análisis de algoritmos"
+  navbar:
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Unidad 1"
+        href: unidad1.qmd
+      - text: "Unidad 2"
+        href: unidad2.qmd
+      - text: "Unidad 3"
+        href: unidad3.qmd
+      - text: "Unidad 4"
+        href: unidad4.qmd
+      - text: "Unidad 5"
+        href: unidad5.qmd
+      - text: "Cambios"
+        href: cambios.qmd
+      - text: "Referencias"
+        href: referencias.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    lang: es
