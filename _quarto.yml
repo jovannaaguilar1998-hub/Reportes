@@ -3,23 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Reportes de análisis de algoritmos"
+  title: "Informes de análisis de algoritmos"
   navbar:
     left:
       - text: "Inicio"
         href: index.qmd
       - text: "Unidad 1"
-        href: unidad1.qmd
+        href: Unidad_1.ipynb
       - text: "Unidad 2"
-        href: unidad2.qmd
+        href: Unidad_2.ipynb
       - text: "Unidad 3"
-        href: unidad3.qmd
+        href: Unidad_3.ipynb
       - text: "Unidad 4"
-        href: unidad4.qmd
+        href: Unidad_4.ipynb
       - text: "Unidad 5"
-        href: unidad5.qmd
-      - text: "Cambios"
-        href: cambios.qmd
+        href: Unidad_5.ipynb
       - text: "Referencias"
         href: referencias.qmd
 
