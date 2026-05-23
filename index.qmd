@@ -12,6 +12,6 @@ Los reportes integran código en Julia, explicación mediante Markdown, desarrol
 - Unidad 4: Algoritmos de búsqueda.
 - Unidad 5: Algoritmos de intersección de listas.
 
-## Repositorio
+## Repositorio 
  
 Los archivos originales se encuentran disponibles en este repositorio de GitHub.
