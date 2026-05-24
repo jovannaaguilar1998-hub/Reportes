@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - text: "Inicio"
-        href: index_.qmd
+        href: index.qmd
       - text: "Unidad 1"
         href: Unidad_1.ipynb
       - text: "Unidad 2"
